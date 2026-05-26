@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniiketaryan" alt="aniiketaryan" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **DevOps**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **aniketaryanofficial@gmail.com**
 
